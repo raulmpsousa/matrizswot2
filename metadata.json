@@ -1,0 +1,5 @@
+{
+  "name": "MATRIZ SWOT",
+  "description": "Uma aplicação que usa IA para gerar uma análise SWOT abrangente para uma ideia de negócio, combinando o input do usuário com pesquisa de mercado autônoma. A IA atua como uma especialista em estratégia de negócios para produzir um relatório pronto para investidores.",
+  "requestFramePermissions": []
+}
